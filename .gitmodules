@@ -1,0 +1,3 @@
+[submodule "chiliproject"]
+	path = chiliproject
+	url = git@github.com:msrba/puppetlabs-chiliproject.git
